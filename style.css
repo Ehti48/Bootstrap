@@ -29,6 +29,7 @@
     padding-bottom:0%;
 }
 .carousel-caption {
+    width: 80%;
     position: absolute;
     right: 15%;
     top: 10rem;
@@ -130,6 +131,20 @@
 
     color: white !important; 
 }
+.btn-2{
+    padding-left: 100px;
+}
+.btn-2 button{
+    background-color: #ef1e1e;
+    color: white;
+    width: 200px;
+    transition: 300ms;
+}
+.btn-2 button:hover{
+    background-color: #fff;
+    color: #ef1e1e;
+}
+
 /* #outercont{
     background-color: black;
     display: flex;
