@@ -39,6 +39,7 @@
     padding-bottom: 1.25rem;
     color: #fff;
     text-align: start;
+    backdrop-filter: drop-shadow(3px 3px 5px 5px white);
 }
 .d-none h5 {
     font-size: 5rem;
